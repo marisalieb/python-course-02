@@ -9,10 +9,10 @@
 # import sales
 # sales.calc_shipping()
 
-import excercises.py_exercise_fizz_buzz
+import excercises.fizz_buzz
 
-from excercises.py_exercise_fizz_buzz import *
+from excercises.fizz_buzz import *
 # function()
 
-from excercises import py_exercise_fizz_buzz
+from excercises import fizz_buzz
 py_exercise_fizz_buzz.__dict__
